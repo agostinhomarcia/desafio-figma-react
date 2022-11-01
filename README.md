@@ -44,7 +44,7 @@
 ## :dart: About ##
 
 
-<h4 align="center"> Icons 3d </h4>
+<h2 align="center"> Icons 3d   </h2>
 
 <p align="center">
    <img src="https://media.giphy.com/media/CIE78E98QzahtJqLVr/giphy.gif" alt="icons-3d" width="850"/>
@@ -103,3 +103,5 @@ Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 &#xa0;
 
 <a href="#top">Back to top </a>
+
+ <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" alt="icons-3d" width="90"/>
