@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://media.giphy.com/media/R2dIaPzNmg10i87hnD/giphy.gif" alt="icons" width="300"/>
+   <img src="https://media.giphy.com/media/VoKf3ajMBTHtIhdnLo/giphy.gif" alt="icons" width="300"/>
 </p>
 
 <p align="right">
@@ -36,7 +36,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://buscador-cep-peach.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://hilarious-squirrel-7d33bb.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
